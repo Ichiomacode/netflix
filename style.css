@@ -20,6 +20,7 @@ h1 h2 h3 h4{
 h3{
     color: #ffffff;
     font-weight: lighter ;
+    font-size: 30PX;
 }
 a{
     color: #ffffff;
@@ -27,7 +28,6 @@ a{
 }
 p{
     margin: 0.5rem 0;
-    font-weight: bold;
     color: #ffffff;
 
 }
